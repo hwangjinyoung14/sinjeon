@@ -37,7 +37,7 @@
 ## 기술 스택
  - 개발 환경 : <img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows10&logoColor=white">
  - 사용 프로그램 : <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
- - 사용된 기술 :  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white">
+ - 사용된 기술 :  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white">
 
 <br>
 
@@ -46,7 +46,7 @@
 : Swiper 플러그인을 활용하여 터치 슬라이드를 구현하였습니다.   
         
 <br>
-**2. jquery 라이브러리<br/>
+**2. jquery 라이브러리**<br/>
 : 클래스에 따라 이동 거리를 계산하여 슬라이드를 동적으로 제어하는 기능을 구현했습니다.
 : 도시를 선택하면 해당 도시에 속한 구/군 목록을 동적으로 표시하는 기능을 구현했습니다. 사용자가 도시를 변경할 때마다 새로운 구/군 목록이 자동으로 업데이트됩니다.
         
